@@ -6,6 +6,12 @@ Keep an eye out for updates on my projects.
 Luke wins the "Best Live Demonstration" award at the BioCAS 2017 conference in Turin, Italy.
 
 ### Research
+Applied research in neuroengineering with a focus on tactile sensing in prosthetic limbs and sensory feedback in upper limb amputees.  
+Motivation:
+*	Develop neuromorphic methods to convey sensations of touch to amputees 
+*	Develop innovative sensing technology for capturing tactile information for medical research and clinical applications
+*	Develop sensing strategies for improving upper limb prosthesis performance and functionality 
+*	Develop sensing and feedback systems to improve device embodiment and user functionality for upper limb amputees
 
 ### Publications
 #### Journals
