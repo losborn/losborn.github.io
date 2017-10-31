@@ -7,7 +7,10 @@ Keep an eye out for updates on my projects.
 ### Research
 
 ### Publications
-[L. Osborn, H. Nguyen, R. Kaliki, and N. Thakor, “Prosthesis grip force modulation using neuromorphic tactile sensing,” Myoelectric Control Symposium, 2017, pp. 188-191.](Osborn - Prosthesis grip force modulation using neuromorphic tactile sensing (MEC 2017).pdf)
+####Journals
+
+####Conferences
+[1] [L. Osborn, H. Nguyen, R. Kaliki, and N. Thakor, “Prosthesis grip force modulation using neuromorphic tactile sensing,” Myoelectric Control Symposium, 2017, pp. 188-191.](Osborn - Prosthesis grip force modulation using neuromorphic tactile sensing (MEC 2017).pdf)
 
 ### CV
 
