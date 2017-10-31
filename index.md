@@ -3,7 +3,7 @@
 Keep an eye out for updates on my projects.
 
 ### Latest News
-Luke wins "Best Live Demonstration" competition at the BioCAS 2017 conference in Turin, Italy.
+Luke wins the "Best Live Demonstration" award at the BioCAS 2017 conference in Turin, Italy.
 
 ### Research
 
