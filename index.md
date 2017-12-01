@@ -22,8 +22,8 @@ Motivation:
 
 
 #### Conferences
-1. [L. Osborn, H. Nguyen, R. Kaliki, and N. Thakor, “Prosthesis grip force modulation using neuromorphic tactile sensing,” Myoelectric Control Symposium, 2017, pp. 188-191.](Osborn_MEC_2017.pdf)
-1. [C. Hunt, R. Yerrabelli, C. Clancy, L. Osborn, R. Kaliki, N. Thakor, “PHAM: Prosthetic hand assessment measure,” Myoelectric Control Symposium, 2017, pp. 221-224.](Hunt_MEC_2017.pdf)
+1. L. Osborn, H. Nguyen, R. Kaliki, and N. Thakor, “Prosthesis grip force modulation using neuromorphic tactile sensing,” Myoelectric Control Symposium, 2017, pp. 188-191. [link](Osborn_MEC_2017.pdf)
+1. C. Hunt, R. Yerrabelli, C. Clancy, L. Osborn, R. Kaliki, N. Thakor, “PHAM: Prosthetic hand assessment measure,” Myoelectric Control Symposium, 2017, pp. 221-224. [link](Hunt_MEC_2017.pdf)
 1.	D. Candrea, A. Sharma, L. Osborn, Y. Gu, and N. Thakor, “An adaptable prosthetic socket: regulating independent air bladders through closed-loop control,” Conf Proc IEEE ISCAS, 2017, pp. 1754-1757.
 1.	L. Osborn, H. Nguyen, J. Betthauser, R. Kaliki, and N. Thakor, “Biologically inspired multi-layered synthetic skin for tactile feedback in prosthetic limbs,” Conf Proc IEEE EMBC, 2016, pp. 4622-4625.
 1.	J. Betthauser, C. Hunt, L. Osborn, R. Kaliki, and N. Thakor, “Limb-position robust classification of myoelectric signals for prosthesis control using sparse representations,” Conf Proc IEEE EMBC, 2016, pp. 6373-6376.  
