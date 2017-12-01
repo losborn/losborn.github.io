@@ -15,10 +15,10 @@ Motivation:
 
 ### Publications
 #### Journals
-1. J. Betthauser, C. Hunt, L. Osborn, M. Maters, G. Levay, R. Kaliki, and N. Thakor, “Limb position tolerant pattern recognition for myoelectric prosthesis control with adaptive sparse representations from extreme learning,” IEEE Trans on Biomed Eng, 2017. doi: 10.1109/TBME.2017.2719400 
-1. D.Yang, Y. Gu, L. Jiang, L. Osborn, H.Liu, “Dynamic training protocol improves the robustness of PR-based myoelectric control,” Biomed Signal Process Control, vol. 31, pp. 249-256, 2017.
-1. 	L. Osborn, R. Kaliki, A. Soares, and N. Thakor, “Neuromimetic event-based detection for closed-loop tactile feedback control of upper limb prostheses,” IEEE Trans on Haptics, vol. 9, no. 2, pp. 196-206, 2016.
-1. L. Osborn, and M. Zou, “Enhanced Tribological properties of surfaces patterned with SU8/DLC microstructures,” Inquiry, vol. 15, pp. 69-86, 2013.
+1. J. Betthauser, C. Hunt, L. Osborn, M. Maters, G. Levay, R. Kaliki, and N. Thakor, “Limb position tolerant pattern recognition for myoelectric prosthesis control with adaptive sparse representations from extreme learning,” IEEE Trans on Biomed Eng, 2017. [doi: 10.1109/TBME.2017.2719400](http://ieeexplore.ieee.org/document/7956176/) 
+1. D.Yang, Y. Gu, L. Jiang, L. Osborn, H.Liu, “Dynamic training protocol improves the robustness of PR-based myoelectric control,” Biomed Signal Process Control, vol. 31, pp. 249-256, 2017. [doi.org/10.1016/j.bspc.2016.08.017](http://www.sciencedirect.com/science/article/pii/S1746809416301185)
+1. 	L. Osborn, R. Kaliki, A. Soares, and N. Thakor, “Neuromimetic event-based detection for closed-loop tactile feedback control of upper limb prostheses,” IEEE Trans on Haptics, vol. 9, no. 2, pp. 196-206, 2016. [doi:10.1109/TOH.2016.2564965](http://ieeexplore.ieee.org/document/7466833/)
+1. [L. Osborn, and M. Zou, “Enhanced Tribological properties of surfaces patterned with SU8/DLC microstructures,” Inquiry, vol. 15, pp. 69-86, 2013.](http://scholarworks.uark.edu/cgi/viewcontent.cgi?article=1045&context=inquiry)
 
 
 #### Conferences
