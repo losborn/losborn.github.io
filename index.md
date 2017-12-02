@@ -30,7 +30,7 @@ Motivation:
 1.	[M. Masters, L. Osborn, A. Soares, and N. Thakor, “Real-time arm tracking for HMI applications,” Conf Proc IEEE Body Sens Net, 2015, pp. 1-4.](http://ieeexplore.ieee.org/document/7299391/)
 1.	L. Osborn, W.W. Lee, R. Kaliki, and N. Thakor, “Tactile feedback in upper limb prosthetic devices using flexible textile force sensors,” Conf Proc IEEE BioRob, 2014, pp. 114-119.  
 1.	L. Osborn, R. Kaliki, and N.V. Thakor, “Utilizing tactile feedback for biomimetic grasping control in upper limb prostheses,” Conf Proc IEEE Sensors, 2013, pp. 1266-1269. 
-1.	S. Beckford, L. Osborn, M. Zou, J. Cai, and J. Chen, “Tribological study of PTFE/Au nanoparticle composite thin films,” Conf Proc ASME/STLE Int Trib, 2011, pp.1-3.
+1.	S. Beckford, L. Osborn, M. Zou, J. Cai, and J. Chen, “Tribological study of PTFE/Au nanoparticle composite thin films,” Conf Proc ASME/STLE Int Trib, 2011, pp.1-3. [doi:10.1115/IJTC2011-61008](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1638002) 
 
 ### CV
 
