@@ -1,6 +1,6 @@
 ## Welcome to Luke Osborn's homepage
 
-Check out my updated website: https://pages.jh.edu/~losborn4/
+Check out my updated website: [https://pages.jh.edu/~losborn4/](https://pages.jh.edu/~losborn4/)
 
 ### Latest News
 Luke wins the "Best Live Demonstration" award at the BioCAS 2017 conference in Turin, Italy.
@@ -31,6 +31,9 @@ Motivation:
 1.	L. Osborn, W.W. Lee, R. Kaliki, and N. Thakor, “Tactile feedback in upper limb prosthetic devices using flexible textile force sensors,” Conf Proc IEEE BioRob, 2014, pp. 114-119.  
 1.	L. Osborn, R. Kaliki, and N.V. Thakor, “Utilizing tactile feedback for biomimetic grasping control in upper limb prostheses,” Conf Proc IEEE Sensors, 2013, pp. 1266-1269. 
 1.	S. Beckford, L. Osborn, M. Zou, J. Cai, and J. Chen, “Tribological study of PTFE/Au nanoparticle composite thin films,” Conf Proc ASME/STLE Int Trib, 2011, pp.1-3. [doi:10.1115/IJTC2011-61008](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1638002) 
+
+#### Other
+1. L. E. Osborn and N. V. Thakor, "Capturing touch for prosthetic limbs through artificial skin," IEEE Brain, vol. 2, no. 3, 2018. [link](https://brain.ieee.org/newsletter/2018-issue-3/capturing-touch-for-prosthetic-limbs-through-artificial-skin/) [pdf](2018_10_Osborn_IEEE_Brain_e-dermis.pdf)
 
 ### CV
 
