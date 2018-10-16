@@ -1,6 +1,6 @@
 ## Welcome to Luke Osborn's homepage
 
-Check out my updated website: https://pages.jh.edu/~losborn4/(https://pages.jh.edu/~losborn4/) 
+Check out my updated website: https://pages.jh.edu/~losborn4/
 
 ### Latest News
 Luke wins the "Best Live Demonstration" award at the BioCAS 2017 conference in Turin, Italy.
